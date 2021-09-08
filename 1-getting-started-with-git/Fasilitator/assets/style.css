@@ -1,0 +1,47 @@
+nav .navMenu{
+    margin: 0px 10px;
+    text-decoration: none;
+    color: gray;
+}
+
+section{
+    min-width: 100%;
+    min-height: 100vh !important;
+    padding: 20px;
+}
+
+section.a{
+    background-color: whitesmoke;
+}
+
+section.a p{
+    margin: 20px 0px;
+}
+
+.imgSocial{
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+    opacity: 0.5;
+}
+
+.imgSocial:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+section.b{
+    background-color: white;
+}
+
+.imgAvatar{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.kanan{
+    width: 50%;
+    text-align: center;
+}
