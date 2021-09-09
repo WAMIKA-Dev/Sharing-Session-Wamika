@@ -42,3 +42,18 @@ ada banyak git service yang tersedia, tapi kali ini kita akan menggunakan salah 
 - buka link init [LINK](https://github.com/)
 - lalu pilih Sign-Up. klo kalian sudah daftar tinggal Sign-in aja
 - terus ikuti langkah-langkah ya sampai habis. >_<
+
+
+## Assets
+
+silahkan download asset berikut, nanti kita akan sambil ngoding memperbaiki web dan menyimpan setiap perubahan di git.
+
+[`1-getting-started-with-git.zim`](../assets/1-getting-started-with-git.zip).
+
+jika gak langsung ke download, klo tombol download:
+
+![Download](../assets/1-download.png "Download button")
+
+## Instructions
+
+Nanti kita bakal ngoding bareng, jadi silahkan install git dan download asset diatas agar semuanya lancar ntr. 
